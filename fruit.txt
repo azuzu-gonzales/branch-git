@@ -1,1 +1,7 @@
 add fruit.txt
+
+apple 01
+
+apple 02
+
+apple 03
